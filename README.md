@@ -21,7 +21,7 @@ When I'm not coding, you'll find me indulging these:
 
 ### 📫 How to Reach Me
 
-- Twitter: [Critical_On_X](x.com/critical_on_x)
+- Twitter: [Critical_On_X](https://x.com/critical_on_x)
 - Discord: @criticalking.
 - Email: [inquiry@critical.lol](mailto:inquiry@critical.lol)
 
