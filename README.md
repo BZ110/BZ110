@@ -4,7 +4,7 @@ Welcome to my GitHub page! My name is **Critical**, though you may also know me 
 
 ## 🚀 About Me
 
-I'm from **Iraq**, and I speak English and Arabic on a conversational level, with French being at a beginner level. I live in **Canada, Toronto** and I just love how expensive everything is here!
+I'm from **Iraq**, and I speak English and Arabic on a conversational level, with French being at a beginner level. I live in **Canada, Toronto** and I just love how expensive everything is here! </3
 
 ### 👨‍💻 Languages and Technologies
 
