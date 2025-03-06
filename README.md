@@ -8,13 +8,19 @@ I'm from **Iraq**, and I speak English and Arabic on a conversational level, wit
 
 ### 👨‍💻 Languages | Langues | Lughaat
 
-- Programming Languages: PY, JS, TS, HTML, CSS, C#, and JAVA.
-- Frameworks and Libraries: Still exploring those, I'm trying out svelte. 😛
+- Programming Languages: PY, JS, TS, HTML, CSS, C#, and Java. (Although I have prior experience with other languages like Lua, and R, I don't apply them that much)
 - Tools: Copilot, Visual Studio Code, GitHub, and just countless more I forgot to list.
+
+### What Am I Best At? | Qu'est-ce Que Je Fais Bien? | Bi Ay Shi Ana Shater?
+
+- As of right now, I mainly focus on the new trends, such as **AI Development**, and so on. I'm quite interested in models and training them. Models such Qwen, and finetuning them to my needs just always feels right to do.
+- I also work with multiple applications and try to merge their functionality for the end-user. Creating relational databases and caches to ensure that data is stored properly for this setup is also nice.
+- I also like modding video games! I've been doing it for a while, and it's a fun thing to do.
+- One last thing is diving into more complex stuff, like the Windows Operating System. How does it save a file? What services are responsible for this, or that? How can I read things like the $MFT and $J and use them for cybersecurity? Though I won't specialize in this, This is done in my free time.
 
 ### 🎮 Hobbies | Loisirs | Hiwayaat
 
-When I'm not coding, you'll find me indulging these:
+When I'm not coding, you'll find me indulging in these:
 
 - **Hobbies**: Playing Overwatch, Reading Books, Scrolling on Instagram
 - **Fun fact**: Otters sometimes hold other otters' pups hostage to force their parents to give up food.
