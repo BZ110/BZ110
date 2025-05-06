@@ -13,7 +13,10 @@ I'm from **Iraq**, and I speak English and Arabic on a conversational level, wit
 
 ### What Am I Best At? | Qu'est-ce Que Je Fais Bien? | Bi Ay Shi Ana Shater?
 
-- As of right now, I mainly focus on the new trends, such as **AI Development**, and so on. I'm quite interested in models and training them. Models such Qwen, and finetuning them to my needs just always feels right to do.
+- As of right now, I think I've completely dropped AI Development, and I focus more on **Backend Development.** Here are some issues I try to solve:
+  - Do we need to save **this** onto Maria? Why don't we opt-in for a lazy-loading strategy?
+  - I think its best if we use a more modular system with encapsulation to ensure that everything can be **easily replaced** if needed.
+- What I also do is try to find solutions for horizontal scaling. (REDIS Sharding, Workload Distribution, Docker, etc)
 - I also work with multiple applications and try to merge their functionality for the end-user. Creating relational databases and caches to ensure that data is stored properly for this setup is also nice.
 - I also like modding video games! I've been doing it for a while, and it's a fun thing to do.
 - One last thing is diving into more complex stuff, like the Windows Operating System. How does it save a file? What services are responsible for this, or that? How can I read things like the $MFT and $J and use them for cybersecurity? Though I won't specialize in this, This is done in my free time.
@@ -32,6 +35,10 @@ When I'm not coding, you'll find me indulging in these:
 - Email: [inquiry@critical.lol](mailto:inquiry@critical.lol)
 
 Feel free to connect if you want to say hi!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BZ110&hide_progress=false&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BZ110&hide_progress=false&locale=ar)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BZ110&hide_progress=false&locale=fr)
 
 ---
 
