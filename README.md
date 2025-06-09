@@ -13,9 +13,7 @@ I'm from **Iraq**, and I speak English and Arabic on a conversational level, wit
 
 ### What Am I Best At? | Qu'est-ce Que Je Fais Bien? | Bi Ay Shi Ana Shater?
 
-- As of right now, I think I've completely dropped AI Development, and I focus more on **Backend Development.** Here are some issues I try to solve:
-  - Do we need to save **this** onto Maria? Why don't we opt-in for a lazy-loading strategy?
-  - I think its best if we use a more modular system with encapsulation to ensure that everything can be **easily replaced** if needed.
+- As of right now, I think I've completely dropped AI Development, and I focus more on **Backend Development.**.
 - What I also do is try to find solutions for horizontal scaling. (REDIS Sharding, Workload Distribution, Docker, etc)
 - I also work with multiple applications and try to merge their functionality for the end-user. Creating relational databases and caches to ensure that data is stored properly for this setup is also nice.
 - I also like modding video games! I've been doing it for a while, and it's a fun thing to do.
