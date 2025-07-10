@@ -1,4 +1,4 @@
-# Hello, Salut, Mr7ba 👋
+# Hello, Salut, As-salamu 3alaykum 👋
 
 (Welcome | Bienvenue | Ahlan w Sahlan) to my GitHub page! My name is **Critical**, though you may also know me by my other aliases like **BZ110** or **King**. I'm excited to share my projects, collaborations, and contributions with you all.
 
