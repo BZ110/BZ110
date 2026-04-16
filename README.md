@@ -34,10 +34,6 @@ When I'm not coding, you'll find me indulging in these:
 
 Feel free to connect if you want to say hi!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BZ110&hide_progress=false&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BZ110&hide_progress=false&locale=ar)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BZ110&hide_progress=false&locale=fr)
-
 ---
 
 Thanks for stopping by! 😄
