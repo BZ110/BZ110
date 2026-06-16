@@ -27,9 +27,6 @@ When I'm not coding, you'll find me indulging in these:
 - **Fun fact**: Otters sometimes hold other otters' pups hostage to force their parents to give up food.
 
 ### 📫 How to Reach Me | Comment M'appeler | Kaif Yumkin an Tukhbirani 
-
-- Twitter: [Critical_On_X](https://x.com/critical_on_x)
-- Discord: @criticalking.
 - Email: [inquiry@critical.lol](mailto:inquiry@critical.lol)
 
 Feel free to connect if you want to say hi!
